@@ -1,10 +1,10 @@
 import 'dart:async';
 
+import 'package:NamoKG/src/navigation_control.dart';
+import 'package:NamoKG/src/web_view_stack.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
-import 'package:webviewnamokg/src/navigation_control.dart';
-import 'package:webviewnamokg/src/web_view_stack.dart';
 
 void main() {
   runApp(const MyApp());

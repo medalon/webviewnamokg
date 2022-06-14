@@ -1,4 +1,4 @@
-package com.example.webviewnamokg
+package kg.namo.webviewnamokg
 
 import io.flutter.embedding.android.FlutterActivity
 
